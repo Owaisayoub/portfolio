@@ -27,7 +27,7 @@ const MainNavigation = () => {
         </Link>
       </div>
       <div
-        className={`w-full  md:h-20  md:mt-0 flex md:justify-end ${navHeight} sticky top-0 bg-red-500  items-center justify-center mt-20  h-[25rem]`}
+        className={`w-full  md:h-20  md:mt-0 flex md:justify-end ${navHeight} sticky top-0  items-center justify-center mt-20  h-[25rem]`}
       >
         <ul
           className={` md:w-[85%]  flex md:flex-row md:items-center md:justify-around h-[20rem] flex-col`}
