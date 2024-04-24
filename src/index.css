@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .navLink {
-  @apply relative md:mx-4  lg:mr-2 text-white py-1 mb-2 sm:mb-0 lg:h-10 lg:text-xl;
+  @apply relative md:mx-4  lg:mr-2 text-white py-1 mb-2 sm:mb-0 lg:h-10 lg:text-xl sm:p-0 p-4;
 }
 .navLink::after {
   @apply content-[''] bg-purple-600 h-[5px] w-[0%] left-2 -bottom-[5px] rounded-xl absolute duration-300;
