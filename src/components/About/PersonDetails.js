@@ -19,8 +19,8 @@ const PersonDetails = () => {
             {" "}
             Kashmir
           </span>
-          . I am a final year student pursuing an B.E Computer Science and
-          Engineering at Jyothy Insitute of Technology Bangalore.
+          . I am a under-graduate B.E Computer Science and Engineering from
+          Jyothy Insitute of Technology Bangalore.
         </p>
         <p className="sm:text-2xl text-xl mt-10 self-start">
           Apart from coding, some other activities that I love to do!
